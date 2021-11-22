@@ -1,0 +1,3 @@
+"Username","Status"
+"CUSTOMER-DEFAULT/kayathirikaya3@gmail.com","30003 - Credential is not valid. Credential must be a non null string with following format, ^((?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%*&])).{8,100}$"
+"CUSTOMER-DEFAULT/kayathirik33@gmail.com","30003 - Credential is not valid. Credential must be a non null string with following format, ^((?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%*&])).{8,100}$"
